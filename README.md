@@ -1,3 +1,8 @@
+This app is built with REACT and Bootstrap. This is a exercise and practice REACT code from YOUTUBE, CodeWithHarry. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
